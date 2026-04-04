@@ -1,0 +1,38 @@
+# 编译输出文件夹
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# 中间文件
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Visual Studio 特定文件
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# 备份文件
+*.bak
+*.tmp
+*~
+
+# 其他
+*.log
+*.idb
+*.ipdb
+*.tlog
