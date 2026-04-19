@@ -52,7 +52,7 @@ void test_deq06()
 
 
 
-int main()
+int main_deq06()
 {
 	test_deq06();
 	return 0;

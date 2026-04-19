@@ -90,5 +90,32 @@
     <ClCompile Include="deque06.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="stack01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

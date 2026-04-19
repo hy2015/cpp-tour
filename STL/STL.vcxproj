@@ -133,6 +133,15 @@
     <ClCompile Include="deque04.cpp" />
     <ClCompile Include="deque05.cpp" />
     <ClCompile Include="deque06.cpp" />
+    <ClCompile Include="list01.cpp" />
+    <ClCompile Include="list02.cpp" />
+    <ClCompile Include="list03.cpp" />
+    <ClCompile Include="list04.cpp" />
+    <ClCompile Include="list05.cpp" />
+    <ClCompile Include="list06.cpp" />
+    <ClCompile Include="list07.cpp" />
+    <ClCompile Include="queue01.cpp" />
+    <ClCompile Include="stack01.cpp" />
     <ClCompile Include="string01.cpp" />
     <ClCompile Include="string02.cpp" />
     <ClCompile Include="string03.cpp" />
