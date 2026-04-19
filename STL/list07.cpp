@@ -27,15 +27,24 @@ void printPerson07(const list<Person07>& L)
 	}
 }
 
+bool comparePerson(Person07 &p1, Person07 &p2)
+{
+	if(p1.m_Age == p2.m_Age)
+	{
+		return p1.m_Height > p2.m_Height; // If ages are equal, sort by height in ascending order
+	}
+	return p1.m_Age < p2.m_Age; // Sort by age in ascending order
+}
+
 void test07()
 {
 	list<Person07> L;
 
 	Person07 p1("aaa", 35, 175);
 	Person07 p2("bbb", 45, 180);
-	Person07 p3("ccc", 50, 170);
+	Person07 p3("ccc", 35, 170);
 	Person07 p4("ddd", 40, 165);
-	Person07 p5("eee", 30, 160);
+	Person07 p5("eee", 35, 160);
 	Person07 p6("fff", 25, 200);
 
 	L.push_back(p1);
@@ -49,11 +58,12 @@ void test07()
 
 	cout << "------------------------------" << endl;
 	cout << "After sort" << endl;
-	L.sort(); // This will cause a compilation error because std::list does not know how to compare Person07 objects by default.
+	//L.sort(); // This will cause a compilation error because std::list does not know how to compare Person07 objects by default.
+	L.sort(comparePerson);
 	printPerson07(L);
 }
 
-int main()
+int main_lst07()
 {
 	test07();
 	return 0;

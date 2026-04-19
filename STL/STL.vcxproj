@@ -141,6 +141,9 @@
     <ClCompile Include="list06.cpp" />
     <ClCompile Include="list07.cpp" />
     <ClCompile Include="queue01.cpp" />
+    <ClCompile Include="set01.cpp" />
+    <ClCompile Include="set02.cpp" />
+    <ClCompile Include="set03.cpp" />
     <ClCompile Include="stack01.cpp" />
     <ClCompile Include="string01.cpp" />
     <ClCompile Include="string02.cpp" />

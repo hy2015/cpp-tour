@@ -117,5 +117,14 @@
     <ClCompile Include="list07.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="set01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
