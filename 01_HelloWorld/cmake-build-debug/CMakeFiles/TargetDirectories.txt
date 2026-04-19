@@ -1,3 +1,0 @@
-C:/Users/Administrator/source/repos/01_HelloWorld/cmake-build-debug/CMakeFiles/01_HelloWorld.dir
-C:/Users/Administrator/source/repos/01_HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/source/repos/01_HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
